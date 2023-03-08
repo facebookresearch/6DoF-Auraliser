@@ -6,6 +6,8 @@ The system is realised as a real-time VST audio plugin, which supports:
 * Loading ATFs and HRTFs via the SOFA standard
 * The ability to change the balance between the directional and ambient rendering streams per frequency band.
 
+A video demonstrating the 6DoF rendering with the various approaches is available [here](https://github.com/facebookresearch/6DoF-Auraliser/releases/tag/v1.0.0).
+
 Developed using [JUCE](https://github.com/WeAreROLI/JUCE/) and the [Spatial_Audio_Framework](https://github.com/leomccormack/Spatial_Audio_Framework).
 
 ![](PluginGUI.png)
