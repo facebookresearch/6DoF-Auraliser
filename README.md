@@ -71,7 +71,20 @@ sudo apt-get install liblapack3 liblapack-dev libopenblas-base libopenblas-dev l
 
 ## Reference
 
-(Submitted for review)
+McCormack, L., Meyer-Kahlen, N., Alon, D.L., Ben-Hur, Z., Amengual Garí, S.V., and Robinson, P.W. 2023. **Six-Degrees-of-Freedom Binaural Reproduction of Head-Worn Microphone Array Capture**. Journal of the Audio Engineering Society, 71(10), pp.638-649.
+
+```
+@article{mccormack2023six,
+  title={Six-Degrees-of-Freedom Binaural Reproduction of Head-Worn Microphone Array Capture},
+  author={McCormack, Leo and Meyer-Kahlen, Nils and Alon, David Lou and Ben-Hur, Zamir and Amengual Gar{\'\i}, Sebasti{\`a} V and Robinson, Philip W},
+  journal={Journal of the Audio Engineering Society},
+  volume={71},
+  number={10},
+  pages={638--649},
+  year={2023},
+  publisher={Audio Engineering Society}
+}
+```
 
 ## License
 
